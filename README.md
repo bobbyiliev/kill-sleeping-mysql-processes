@@ -7,6 +7,6 @@ You can use this as a temporary solution while you investigate the core issue on
 
 You can also run it as a cron job, the cron would look something like this:
 
-* * * * * /path/to/the/script.sh /dev/null 2>&1
+    * * * * * /path/to/the/script.sh /dev/null 2>&1
 
 Hope that this helps someone :)
