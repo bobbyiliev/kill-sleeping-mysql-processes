@@ -9,4 +9,8 @@ You can also run it as a cron job, the cron would look something like this:
 
     * * * * * /path/to/the/script/mysql_sleeping.sh /dev/null 2>&1
 
+For more information checkout this blog post here:
+
+[link Blog Post] https://bobbyiliev.com/blog/killing-mysql-queries-sleeping-long-period-time/
+
 Hope that this helps someone :)
