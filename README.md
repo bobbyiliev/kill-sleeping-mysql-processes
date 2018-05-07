@@ -11,6 +11,6 @@ You can also run it as a cron job, the cron would look something like this:
 
 For more information checkout this blog post here:
 
-[link Blog Post] https://bobbyiliev.com/blog/killing-mysql-queries-sleeping-long-period-time/
+https://bobbyiliev.com/blog/killing-mysql-queries-sleeping-long-period-time/
 
 Hope that this helps someone :)
